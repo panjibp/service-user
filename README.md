@@ -1,2 +1,2 @@
 # service-user
-User Service API of Online Course Website with Microservice architecture using Express.js.
+This is User Service API of Online Course Website. It's still in progress, there will be more services.
